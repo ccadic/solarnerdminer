@@ -6,3 +6,4 @@ Files in the STL rep: the 2 parts your need to 3D print
 
 In root directory you have the Solidworks construction files
 
+https://github.com/ccadic/solarnerdminer/blob/main/solarstation.JPG
